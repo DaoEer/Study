@@ -3,21 +3,31 @@ using UnityEngine;
 
 public class TestSQLite : MonoBehaviour
 {
-    private const string DatabasePath = "D:/Work/Unity/Study/Assets/SQLite/Database/Test.db";
+    private const string DatabasePath = @"E:\Project\SQLite\Database\Test.db";
 
     private void Start()
     {
         SQLiteConnection connection = new(DatabasePath);
-        Member member = connection.Get<Member>(1);
-        Debug.Log(member.Name);
+        Student student = connection.Get<Student>(1);
+        Debug.Log(student.Name);
     }
 
-    public class Member
+    public class Student
     {
-        [PrimaryKey, NotNull, AutoIncrement, Unique]
+        [PrimaryKey, AutoIncrement, NotNull, Unique]
         public int Id { get; set; }
+
         [NotNull]
         public string Name { get; set; }
-        public int Age {  get; set; }
+
+        public int Age { get; set; }
+    }
+
+    public class Class
+    {
+        [PrimaryKey, AutoIncrement, NotNull, Unique]
+        public int Id { get; set; }
+
+        public string Member { get; set; }
     }
 }

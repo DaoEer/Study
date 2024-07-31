@@ -1,3 +1,4 @@
+using Cysharp.Threading.Tasks;
 using System.Threading.Tasks;
 using UnityEngine;
 
@@ -15,7 +16,7 @@ public class TestUniTask : MonoBehaviour
         Debug.Log(3);
     }
 
-    private async Task<int> WaitTime(int time)
+    private async UniTask<int> WaitTime(int time)
     {
         await Task.Delay(time);
         return time;
