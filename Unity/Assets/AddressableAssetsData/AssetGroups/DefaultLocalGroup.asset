@@ -10,13 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: DefaultLocalGroup
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: DefaultLocalGroup
   m_Data:
     m_SerializedData: []
   m_GUID: c3d061497c76f7d4f82a088a31469424
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 34512ef880b7df44680b8803ab603056
+    m_Address: Assets/XAsset/HotFix/Local/Res/Capsule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab0705d403f65d6499b090d3718a6cc5
+    m_Address: Assets/XAsset/HotFix/Local/Res/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17d423db1c6a3ed458fb843ace631f39
+    m_Address: Assets/XAsset/HotFix/Local/Res/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 97b81bc189aac9347a5e0cababf8251e, type: 2}
   m_SchemaSet:

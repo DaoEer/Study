@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: c3d061497c76f7d4f82a088a31469424
   m_currentHash:
     serializedVersion: 2
-    Hash: db24ed310063f9e86e769234b9b077fe
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -46,6 +46,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 5d64aaef8b792f94b8eab1f0fd5c33a1, type: 2}
   - {fileID: 11400000, guid: ccc9229c24d12244bb384c06323b565b, type: 2}
+  - {fileID: 11400000, guid: cf34495610259fa49af38bd328903ca9, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -66,7 +67,7 @@ MonoBehaviour:
       - m_Id: af7d183501f05e14caa18a6bfd78dc8b
         m_Value: ServerData/[BuildTarget]
       - m_Id: c39ff74b8c106da43a39bf37eadb0bdb
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://github.com/DaoEer/Study/raw/master/Server/HotFix
     m_ProfileEntryNames:
     - m_Id: 4db44339edca87d4cac177418411b4ca
       m_Name: BuildTarget

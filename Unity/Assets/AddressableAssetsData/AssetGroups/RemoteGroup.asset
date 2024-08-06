@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e976279d1190ddd47abd60668d89d6ce
+  m_SerializeEntries:
+  - m_GUID: 1e45acb2408e9ad4987d129c4cfe4dd8
+    m_Address: Assets/XAsset/HotFix/Remote/Res/Capsule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f961cd7c510f21d49a5367137fea66a4
+    m_Address: Assets/XAsset/HotFix/Remote/Res/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 007590f046721c6449dc3ff77886abc9
+    m_Address: Assets/XAsset/HotFix/Remote/Res/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 97b81bc189aac9347a5e0cababf8251e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 106d75299c1bbc14caa5b96be67b0a38, type: 2}
+    - {fileID: 11400000, guid: 5c7fb841ecf6e8344b2bcecde738e2ab, type: 2}
