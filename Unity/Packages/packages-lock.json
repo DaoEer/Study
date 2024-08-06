@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.code-philosophy.hybridclr": {
-      "version": "https://github.com/focus-creative-games/hybridclr_unity.git",
+      "version": "https://gitee.com/focus-creative-games/hybridclr_unity.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "53f4f33bf04c982f23e9f2df8f1c676612f47cfb"
+      "hash": "34df2799432d9dedd2c17d461c126a311fe12157"
     },
     "com.unity.addressables": {
       "version": "1.21.21",
@@ -47,8 +47,8 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.ide.visualstudio": "2.0.22",
-        "com.unity.ide.rider": "3.0.26",
+        "com.unity.ide.visualstudio": "2.0.21",
+        "com.unity.ide.rider": "3.0.25",
         "com.unity.ide.vscode": "1.2.5",
         "com.unity.editorcoroutines": "1.0.0",
         "com.unity.performance.profile-analyzer": "1.2.2",
@@ -57,7 +57,7 @@
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.26",
+      "version": "3.0.25",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -66,7 +66,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.22",
+      "version": "2.0.21",
       "depth": 1,
       "source": "registry",
       "dependencies": {
