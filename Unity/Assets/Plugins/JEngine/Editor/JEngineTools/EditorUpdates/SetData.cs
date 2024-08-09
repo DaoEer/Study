@@ -10,7 +10,7 @@ namespace JEngine.Editor
     internal static class SetData
     {
         public static bool HasAdded;
-        private static string _path = "JEngine.proj";
+        private static string _path = "Plugins/JEngine/JEngine.proj";
         private static JEngineProjData _data;
 
         public static void UpdateData(Action<JEngineProjData> func)

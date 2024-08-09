@@ -98,16 +98,16 @@ MonoBehaviour:
         FilterRuleName: CollectAll
         AssetTags: 
         UserData: 
-  - PackageName: AddOn1
-    PackageDesc: "\u5206\u53051"
+  - PackageName: Remote_1
+    PackageDesc: "\u8FDC\u7A0B\u5206\u5305_1"
     Groups:
     - GroupName: Scene
       GroupDesc: "\u573A\u666F\u8D44\u6E90"
       AssetTags: 
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Assets/HotUpdateResources/AddOn1/Scene
-        CollectorGUID: a41f124d141514fdaa4b4ebd36f6737f
+      - CollectPath: Assets/HotUpdateResources/Remote_1/Scenes
+        CollectorGUID: 5adc68850f9efc44fbd12f017944da5b
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory
@@ -119,8 +119,8 @@ MonoBehaviour:
       AssetTags: 
       ActiveRuleName: EnableGroup
       Collectors:
-      - CollectPath: Assets/HotUpdateResources/AddOn1/Other
-        CollectorGUID: f8a4b740986e54ff6854ab0c64e04f68
+      - CollectPath: Assets/HotUpdateResources/Remote_1/Other
+        CollectorGUID: 108e7c2db0c7dee429cf74bac6d4926d
         CollectorType: 0
         AddressRuleName: AddressByFileName
         PackRuleName: PackDirectory
