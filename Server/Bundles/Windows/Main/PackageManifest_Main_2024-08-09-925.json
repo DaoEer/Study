@@ -3,7 +3,7 @@
     "EnableAddressable": false,
     "OutputNameStyle": 1,
     "PackageName": "Main",
-    "PackageVersion": "2024-08-09-885",
+    "PackageVersion": "2024-08-09-925",
     "AssetList": [
         {
             "Address": "",
@@ -16,9 +16,9 @@
     "BundleList": [
         {
             "BundleName": "assets_hotupdateresources_main_scene.bundle",
-            "FileHash": "e144f970b365ff0e7eb28084d8d60413",
-            "FileCRC": "66777286",
-            "FileSize": 111852,
+            "FileHash": "465ca0a68640769d95367dab81e5ed80",
+            "FileCRC": "bfae40f2",
+            "FileSize": 111840,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
