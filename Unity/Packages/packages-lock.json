@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "34df2799432d9dedd2c17d461c126a311fe12157"
     },
+    "com.matthewminer.consolation": {
+      "version": "https://github.com/mminer/consolation.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2ad49b92f49317cf24d0727a0278ac9f5d8d1331"
+    },
     "com.unity.addressables": {
       "version": "1.21.21",
       "depth": 0,
