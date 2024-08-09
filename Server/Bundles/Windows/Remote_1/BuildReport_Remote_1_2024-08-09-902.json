@@ -1,0 +1,102 @@
+{
+    "Summary": {
+        "YooVersion": "",
+        "UnityVersion": "2022.3.12f1c1",
+        "BuildDate": "2024/8/9 15:02:57",
+        "BuildSeconds": 3,
+        "BuildTarget": 19,
+        "BuildPipeline": 0,
+        "BuildMode": 0,
+        "BuildPackageName": "Remote_1",
+        "BuildPackageVersion": "2024-08-09-902",
+        "EnableAddressable": false,
+        "UniqueBundleName": false,
+        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "OutputNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 4,
+        "MainAssetTotalCount": 4,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 159642,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 0,
+        "RawBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Remote_1/Scenes/Test_1.unity",
+            "AssetGUID": "e3475e8fbacd99e45a21aa4ab651c5d3",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdateresources_remote_1_scenes.bundle",
+            "MainBundleSize": 112368,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Remote_1/Other/Capsule.prefab",
+            "AssetGUID": "34512ef880b7df44680b8803ab603056",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdateresources_remote_1_other.bundle",
+            "MainBundleSize": 47274,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Remote_1/Other/Cube.prefab",
+            "AssetGUID": "ab0705d403f65d6499b090d3718a6cc5",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdateresources_remote_1_other.bundle",
+            "MainBundleSize": 47274,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Remote_1/Other/Sphere.prefab",
+            "AssetGUID": "17d423db1c6a3ed458fb843ace631f39",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdateresources_remote_1_other.bundle",
+            "MainBundleSize": 47274,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_hotupdateresources_remote_1_scenes.bundle",
+            "FileName": "0baf0e1d2b4aa0cf7ba19472ac8f8bb9.bundle",
+            "FileHash": "0baf0e1d2b4aa0cf7ba19472ac8f8bb9",
+            "FileCRC": "e072deb2",
+            "FileSize": 112368,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/HotUpdateResources/Remote_1/Scenes/Test_1.unity"
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_remote_1_other.bundle",
+            "FileName": "f4df44b63b621559919db25c12cf6d61.bundle",
+            "FileHash": "f4df44b63b621559919db25c12cf6d61",
+            "FileCRC": "8793327c",
+            "FileSize": 47274,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/HotUpdateResources/Remote_1/Other/Capsule.prefab",
+                "Assets/HotUpdateResources/Remote_1/Other/Cube.prefab",
+                "Assets/HotUpdateResources/Remote_1/Other/Sphere.prefab"
+            ]
+        }
+    ]
+}

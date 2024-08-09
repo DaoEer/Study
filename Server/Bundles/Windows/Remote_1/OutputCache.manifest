@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1185066730
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_hotupdateresources_remote_1_scenes.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_hotupdateresources_remote_1_other.bundle
+      Dependencies: {}

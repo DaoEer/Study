@@ -1,0 +1,28 @@
+{
+    "FileVersion": "1.4.6",
+    "EnableAddressable": false,
+    "OutputNameStyle": 1,
+    "PackageName": "Main",
+    "PackageVersion": "2024-08-09-885",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Scene/Main.unity",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_hotupdateresources_main_scene.bundle",
+            "FileHash": "e144f970b365ff0e7eb28084d8d60413",
+            "FileCRC": "66777286",
+            "FileSize": 111852,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        }
+    ]
+}

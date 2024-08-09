@@ -1,0 +1,59 @@
+{
+    "FileVersion": "1.4.6",
+    "EnableAddressable": false,
+    "OutputNameStyle": 1,
+    "PackageName": "Remote_1",
+    "PackageVersion": "2024-08-09-902",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Remote_1/Scenes/Test_1.unity",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Remote_1/Other/Capsule.prefab",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Remote_1/Other/Cube.prefab",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Remote_1/Other/Sphere.prefab",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_hotupdateresources_remote_1_scenes.bundle",
+            "FileHash": "0baf0e1d2b4aa0cf7ba19472ac8f8bb9",
+            "FileCRC": "e072deb2",
+            "FileSize": 112368,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_remote_1_other.bundle",
+            "FileHash": "f4df44b63b621559919db25c12cf6d61",
+            "FileCRC": "8793327c",
+            "FileSize": 47274,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        }
+    ]
+}

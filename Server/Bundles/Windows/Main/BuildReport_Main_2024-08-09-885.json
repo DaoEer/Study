@@ -1,0 +1,56 @@
+{
+    "Summary": {
+        "YooVersion": "",
+        "UnityVersion": "2022.3.12f1c1",
+        "BuildDate": "2024/8/9 14:53:15",
+        "BuildSeconds": 24,
+        "BuildTarget": 19,
+        "BuildPipeline": 0,
+        "BuildMode": 0,
+        "BuildPackageName": "Main",
+        "BuildPackageVersion": "2024-08-09-885",
+        "EnableAddressable": false,
+        "UniqueBundleName": false,
+        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "OutputNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 1,
+        "MainAssetTotalCount": 1,
+        "AllBundleTotalCount": 1,
+        "AllBundleTotalSize": 111852,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 0,
+        "RawBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Scene/Main.unity",
+            "AssetGUID": "c064a7aeed103da41a743b87979eba59",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdateresources_main_scene.bundle",
+            "MainBundleSize": 111852,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_hotupdateresources_main_scene.bundle",
+            "FileName": "e144f970b365ff0e7eb28084d8d60413.bundle",
+            "FileHash": "e144f970b365ff0e7eb28084d8d60413",
+            "FileCRC": "66777286",
+            "FileSize": 111852,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/HotUpdateResources/Main/Scene/Main.unity"
+            ]
+        }
+    ]
+}
