@@ -16,22 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: e976279d1190ddd47abd60668d89d6ce
-  m_SerializeEntries:
-  - m_GUID: 1e45acb2408e9ad4987d129c4cfe4dd8
-    m_Address: Assets/XAsset/HotFix/Remote/Res/Capsule.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f961cd7c510f21d49a5367137fea66a4
-    m_Address: Assets/XAsset/HotFix/Remote/Res/Cube.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 007590f046721c6449dc3ff77886abc9
-    m_Address: Assets/XAsset/HotFix/Remote/Res/Sphere.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 97b81bc189aac9347a5e0cababf8251e, type: 2}
   m_SchemaSet:
